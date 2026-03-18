@@ -1,0 +1,7 @@
+# Large local datasets
+data/*.mat
+
+# Local experiment artifacts
+logs/
+img/
+result/
