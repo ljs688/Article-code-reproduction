@@ -1,0 +1,16 @@
+Experiment Results — Caltech101
+Run at: 2026-03-18 12:45:30
+============================================================
+
+Per-seed results:
+  Seed 0: ACC=50.11  NMI=73.63  ARI=44.41
+  Seed 1: ACC=9.22  NMI=0.00  ARI=0.00
+  Seed 2: ACC=9.22  NMI=0.00  ARI=0.00
+  Seed 3: ACC=9.22  NMI=0.00  ARI=0.00
+  Seed 4: ACC=9.22  NMI=0.00  ARI=0.00
+
+────────────────────────────────────────
+Mean ± Std (%):
+  ACC : 17.40±16.36
+  NMI : 14.73±29.45
+  ARI : 8.88±17.76
